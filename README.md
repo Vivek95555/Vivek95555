@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vivek95555
 - 👀 I’m interested in ... machine learning and automation
 - 🌱 I’m currently learning ... Artificial intellegence and machine learning(AIML)
-- 💞️ I’m looking to collaborate on ... internships for free because i am studing.
+- 💞️ I’m looking to collaborate on ... internships for free.
 - 📫 How to reach me ... by my e mail (viveksolankimirror@gmail.com)
 
 <!---
