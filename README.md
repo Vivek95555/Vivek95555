@@ -90,27 +90,8 @@ Building intelligent software with AI, Full Stack Development, Data Science, and
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vivek95555&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=Vivek95555&theme=default&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek95555&layout=compact&theme=default&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek95555&bg_color=ffffff&color=24292e&line=2563EB&point=2563EB&area=true&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Vivek95555&theme=default&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
